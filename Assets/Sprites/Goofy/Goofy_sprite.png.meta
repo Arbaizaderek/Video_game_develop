@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: 7be1beb539896cc4b9216ca0d6c2b78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4583277965229827910
+    second: Goofy_sprite_0
+  - first:
+      213: 428156228234884378
+    second: Goofy_sprite_1
+  - first:
+      213: -7290606075150183021
+    second: Goofy_sprite_2
+  - first:
+      213: 1158300169723430369
+    second: Goofy_sprite_3
+  - first:
+      213: 713688843645507084
+    second: Goofy_sprite_4
+  - first:
+      213: 1226719278011181673
+    second: Goofy_sprite_5
+  - first:
+      213: -4054366354504408399
+    second: Goofy_sprite_6
+  - first:
+      213: -1857940854847560357
+    second: Goofy_sprite_7
+  - first:
+      213: -1658010190413119738
+    second: Goofy_sprite_8
+  - first:
+      213: -9218849100248258314
+    second: Goofy_sprite_9
+  - first:
+      213: 7433621744737902871
+    second: Goofy_sprite_10
+  - first:
+      213: 1551799388592282152
+    second: Goofy_sprite_11
+  - first:
+      213: 7224315154992274325
+    second: Goofy_sprite_12
+  - first:
+      213: -7510520800803236488
+    second: Goofy_sprite_13
+  - first:
+      213: 5387517773008009792
+    second: Goofy_sprite_14
+  - first:
+      213: -6433878209343594395
+    second: Goofy_sprite_15
+  - first:
+      213: 3464634877003971213
+    second: Goofy_sprite_16
+  - first:
+      213: 5298629022907517043
+    second: Goofy_sprite_17
+  - first:
+      213: 9085831916159201569
+    second: Goofy_sprite_18
+  - first:
+      213: 9015515239017041653
+    second: Goofy_sprite_19
+  - first:
+      213: -447833837700780004
+    second: Goofy_sprite_20
+  - first:
+      213: -8131538659967573636
+    second: Goofy_sprite_21
+  - first:
+      213: -1707336686399595102
+    second: Goofy_sprite_22
+  - first:
+      213: -5267479732364066418
+    second: Goofy_sprite_23
+  - first:
+      213: 4430056750073890256
+    second: Goofy_sprite_24
+  - first:
+      213: 672187022351508441
+    second: Goofy_sprite_25
+  - first:
+      213: -7774003021309479889
+    second: Goofy_sprite_26
+  - first:
+      213: -2049397071658588911
+    second: Goofy_sprite_27
+  - first:
+      213: 7340194836105128822
+    second: Goofy_sprite_28
+  - first:
+      213: -7361668656009287895
+    second: Goofy_sprite_29
+  - first:
+      213: 5501209920118195268
+    second: Goofy_sprite_30
+  - first:
+      213: -8173044691986553727
+    second: Goofy_sprite_31
+  - first:
+      213: 6834845360552490123
+    second: Goofy_sprite_32
+  - first:
+      213: 2178062196873986738
+    second: Goofy_sprite_33
+  - first:
+      213: 658233325232214879
+    second: Goofy_sprite_34
+  - first:
+      213: -8275998178097349881
+    second: Goofy_sprite_35
+  - first:
+      213: -5448033591716707634
+    second: Goofy_sprite_36
+  - first:
+      213: -7238568167557937472
+    second: Goofy_sprite_37
+  - first:
+      213: 3844199267731391267
+    second: Goofy_sprite_38
+  - first:
+      213: 8758722740442269772
+    second: Goofy_sprite_39
+  - first:
+      213: 4973233496981409996
+    second: Goofy_sprite_40
+  - first:
+      213: 2319472809865048992
+    second: Goofy_sprite_41
+  - first:
+      213: -4152706629400516125
+    second: Goofy_sprite_42
+  - first:
+      213: 6778214680734268737
+    second: Goofy_sprite_43
+  - first:
+      213: 6197440473619079602
+    second: Goofy_sprite_44
+  - first:
+      213: -886597805808686932
+    second: Goofy_sprite_45
+  - first:
+      213: 2323024322890982438
+    second: Goofy_sprite_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goofy_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1228
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a843c8c70d8ca54ca02db061d42e032
+      internalID: -4583277965229827910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1228
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406980465da35c4dad8f6d214272a92
+      internalID: 428156228234884378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1228
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce18e78840c2248ba5aa849f8c24f1
+      internalID: -7290606075150183021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1228
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a18e6d748f994dad0d8335f900b06
+      internalID: 1158300169723430369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1163
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e9559c8a639594288ec5f86d908796
+      internalID: 713688843645507084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1163
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bbd86e2df4dc54ba41fb64634c14b1
+      internalID: 1226719278011181673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1163
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c669c1a1f43714e9849b7c2ea63dfa
+      internalID: -4054366354504408399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1163
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf16d056197d344aa2a93f08449793
+      internalID: -1857940854847560357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1163
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eca8c1dbe07d246b2042bafdde5c3e
+      internalID: -1658010190413119738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1163
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d4daa8f6eee24887221c84b1bff28
+      internalID: -9218849100248258314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1163
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fddc2ad9d87af04db35b8a605125c6f
+      internalID: 7433621744737902871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1163
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6111124b6e28a4d9416e1c1399ca12
+      internalID: 1551799388592282152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1163
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68789142de4e01749b9547b66d7fd6ed
+      internalID: 7224315154992274325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1163
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69ca6dbc4176b47ac48254741ca58a
+      internalID: -7510520800803236488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1163
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a167c86494c945aa1cb844f4cbefc
+      internalID: 5387517773008009792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1095
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b54accfffe7f41838d60f1d4c88d2
+      internalID: -6433878209343594395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1094
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498116e01df5d544db1cc9805b56c24f
+      internalID: 3464634877003971213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1094
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e687b1603cdf469945ff7b82f2840
+      internalID: 5298629022907517043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1094
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167661e782e9524aa3895d1e91e47c7
+      internalID: 9085831916159201569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1094
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e45b7c0c3d144a892b3e40bd42782
+      internalID: 9015515239017041653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1094
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2825b6f6d60c45148ab0b2c7d8fc66de
+      internalID: -447833837700780004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1094
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6881ec4ce318da42ba7bd4b32059c7e
+      internalID: -8131538659967573636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1094
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48741ed1e1d3140aefa679b58bbd9a
+      internalID: -1707336686399595102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1026
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e117257b7b473b344b5129f488802f8c
+      internalID: -5267479732364066418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1026
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe733b080b991d4e996b85722420d61
+      internalID: 4430056750073890256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1026
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02493a2da35130b478ab8b40348fd56d
+      internalID: 672187022351508441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1026
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ff9157f1194949b650447d89f03b2
+      internalID: -7774003021309479889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1026
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9e4f6b5eaeb04c8b2f0b24033aede
+      internalID: -2049397071658588911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1025
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce4d624c46e2a47a897faf5698277e
+      internalID: 7340194836105128822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1025
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb7388cb8d9024197eae9acb4d62e7
+      internalID: -7361668656009287895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1025
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a77b84dbef6eab4588940653f611b71
+      internalID: 5501209920118195268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 967
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191dd56acfe2e6843829c49383670574
+      internalID: -8173044691986553727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 966
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c30449f629084e93c4863a6e5a193
+      internalID: 6834845360552490123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 966
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab13183424ba44bac04f7c1c3bc156
+      internalID: 2178062196873986738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 966
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc10271869b0d51468d00de75c02c257
+      internalID: 658233325232214879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 966
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fdaa63ca2c4e740a8bb32b13d1b8c2
+      internalID: -8275998178097349881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 966
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de35f6aa1bd4d468868d09d782bd74
+      internalID: -5448033591716707634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 966
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c0734c7afd9047ba5b7c223ea74b3
+      internalID: -7238568167557937472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 965
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1c66cfcea38a42bd860957af0b0fd
+      internalID: 3844199267731391267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 892
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98feb0b3bd3e4442bfea771b96731a9
+      internalID: 8758722740442269772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 892
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf06fe5cb4ff4e4085d65bc009f49c1
+      internalID: 4973233496981409996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 892
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338ea7c24091c44eb5c069ddd19bec6
+      internalID: 2319472809865048992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 892
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782420aaba231f94893a94f20beef8e4
+      internalID: -4152706629400516125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 892
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f314881aa9e5a449c4549f52ce3db8
+      internalID: 6778214680734268737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 892
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9640209805a441b6517b6ccfdfb8c
+      internalID: 6197440473619079602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 892
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f138b0364e0147912e8145338d9c0
+      internalID: -886597805808686932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goofy_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 892
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4298f516c7ae3042b84bbb7d8e54f1e
+      internalID: 2323024322890982438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
